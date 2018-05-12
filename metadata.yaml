@@ -1,0 +1,37 @@
+_repo: The-Works-of-Robert-G.-Ingersoll-Vol.-9--of-12---13-Dresden-Edition-Political_38809
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ingersoll, Robert Green
+    aliases:
+    - Ingersoll, Bob
+    - Ingersoll, R. G. (Robert Green)
+    - Ingersoll, Robert G. (Robert Green)
+    birthdate: 1833
+    deathdate: 1899
+    gutenberg_agent_id: '2662'
+    url: http://www.gutenberg.org/2009/agents/2662
+    wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
+description: ''
+gutenberg_issued: '2012-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free thought'
+- !lcc 'BL'
+tableOfContents: An address to the colored people -- Speech at Indianapolis -- Centennial
+  oration -- Bangor speech -- Cooper Union speech, New York -- Indianapolis speech
+  -- Chicago speech -- Eight to seven address -- Hard times and the way out -- Suffrage
+  address -- Wall Street speech -- Brooklyn speech -- Address to the 86th Illinois
+  regiment -- Decoration Day oration -- Decoration Day address -- Ratification speech
+  -- Reunion address -- The Chicago and New York gold speech.
+title: "The Works of Robert G. Ingersoll, Vol. 09 (of 12)\r\nDresden Edition—Political"
+url: http://www.gutenberg.org/ebooks/38809
